@@ -42,7 +42,7 @@ This is a real-world **classification problem** using tabular data.
 | Random Forest | Bagging Ensemble | ~74% |
 | XGBoost | Boosting Ensemble | ~73% |
 | Voting Classifier | RF + XGBoost | ~72% |
-| **Tuned XGBoost (Best)** | Boosting + Hyperparameter tuning | **~75% Accuracy** ✅ |
+| **Tuned XGBoost (Best)** | Boosting + Hyperparameter tuning | **~75% Accuracy**  |
 
 ###  5. Hyperparameter Tuning
 - Used **RandomizedSearchCV**
